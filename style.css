@@ -1,0 +1,17 @@
+h1 { color: #EEF1FF;}
+body {
+	background-color: #B1B2FF;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	line-height: 1.6em;
+	font-size: 16px;
+}
+.box-1 {
+	background-color: #AAC4FF;
+}
+color: #B1B2FF;
+body { margin: 0px; }
+.container {
+	width: 80%;
+}
